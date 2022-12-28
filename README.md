@@ -1,6 +1,6 @@
 👋 [**@thomasunderwood**](https://thomasunderwood.github.io).
 ---
-👀 I’m a computational chemist working at PNNL.
+👀 I’m a computational chemist.
 
 🌱 I’m interested in solving problems related to the environment.
 
